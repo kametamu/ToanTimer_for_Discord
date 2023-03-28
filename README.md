@@ -5,6 +5,7 @@ ToanTimerは、Discord上でタイマーを設定するためのシンプルな�
 ## クイックスタート
 
 1. Pythonをインストールする (開発者環境: Python 3.10.6)
+
 2．ffmpegをインストールする
 3. python -m venv venv
 4. venv\Scripts\activate
